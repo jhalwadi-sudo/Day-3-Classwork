@@ -1,0 +1,42 @@
+.container {
+    color: bisque ;
+    background-color: #023047;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    width: 60%;
+    height: 70%;
+    border-style:double;
+    border-color: #219ebc;
+    line-height:50px;
+    border-width: 10px;
+    border-radius: 10px;
+    
+}
+
+
+.contact{
+    color: #219ebc ;
+    background-color: bisque;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #023047;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    width: 60%;
+    height: 70%;
+    border-style:double;
+    border-color: #219ebc;
+    line-height:50px;
+    border-width: 10px;
+    border-radius: 10px;
+
+
+
+
+
+}
